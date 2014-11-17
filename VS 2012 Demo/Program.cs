@@ -18,6 +18,10 @@ namespace VS_2012_Demo
             //Last more changes
 
             //One more changes to master
+
+            //Feature 1.1 changes
+
+            //One changes to matser
    
         }
     }
